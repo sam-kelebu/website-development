@@ -1,0 +1,44 @@
+.sidebar {
+  width: 250px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
+.sidebar .menu {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar .menu li {
+  margin-bottom: 10px;
+}
+
+.sidebar .menu li a {
+  text-decoration: none;
+  color: #333;
+}
+
+.sidebar .widgets {
+  margin-top: 20px;
+}
+
+.sidebar .widgets h3 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+.sidebar .widgets ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar .widgets ul li {
+  margin-bottom: 5px;
+}
+
+.sidebar .widgets ul li a {
+  text-decoration: none;
+  color: #777;
+}
